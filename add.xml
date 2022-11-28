@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>shoesadd.jpeg</ImageUrl>
+		<Text>as rotator1 </Text>
+   </Ad>
+    <Ad>
+		<ImageUrl>foodadd.jpeg</ImageUrl>
+		<Text>ad rotator2</Text>
+	</Ad>
+</Advertisements>
+
